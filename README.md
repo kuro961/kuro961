@@ -22,7 +22,8 @@
 - 応用情報技術者
 - データベーススペシャリスト
 - 情報処理安全確保支援士（合格・未登録）
-
+### その他
+- AtCoder: https://atcoder.jp/users/kuroda_yu
 <!--
 **kuro961/kuro961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
