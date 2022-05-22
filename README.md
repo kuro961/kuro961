@@ -1,7 +1,7 @@
 ### プロフィール
-- 名前: 黒田 勇斗
-- 所属: 愛媛大学大学院 理工学研究科 電子情報工学専攻 人工知能研究室
-- mail: kuroda@ai.cs.ehime-u.ac.jp
+- 名前：黒田 勇斗
+- 所属：愛媛大学大学院 理工学研究科 電子情報工学専攻 人工知能研究室
+- Email：kuroda@ai.cs.ehime-u.ac.jp
 ### 学位論文
 - 卒業論文：多言語文符号化器の言語表現と意味表現の分離に関する研究
 ### 研究業績
@@ -23,7 +23,7 @@
 - データベーススペシャリスト
 - 情報処理安全確保支援士（合格・未登録）
 ### その他
-- AtCoder: https://atcoder.jp/users/kuroda_yu
+- AtCoder：https://atcoder.jp/users/kuroda_yu
 <!--
 **kuro961/kuro961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
