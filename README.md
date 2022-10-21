@@ -8,6 +8,9 @@
 - 黒田 勇斗, 梶原 智之, 荒瀬 由紀, 二宮 崇.<br>
   多言語文符号化器の言語表現と意味表現の分離に基づく機械翻訳の品質推定. <br>
   言語処理学会第28回年次大会, pp.521-525, 2022.
+- Yuto Kuroda, Tomoyuki Kajiwara, Yuki Arase, Takashi Ninomiya. <br>
+  Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation. <br>
+  In Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022), pp.5240-5245, Gyeongiu, Republic of Korea, October 2022. 
 ### 受賞
 - R3年度電気学会・電子情報通信学会・情報処理学会 四国支部奨励賞
 - 言語処理学会第28回年次大会 若手奨励賞（280人中の12人）
